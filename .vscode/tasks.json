@@ -11,7 +11,7 @@
                 "arduino:avr:uno", // 보드 설정
                 "--port",
                 "COM12", // 아두이노 포트
-                "${workspaceFolder}/mcp2515/mcp2515.ino"  // 경로 수정
+                "${workspaceFolder}/mcp2515.ino"  // 경로 수정
             ],
             "group": {
                 "kind": "build",

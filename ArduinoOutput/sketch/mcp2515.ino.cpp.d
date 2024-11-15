@@ -14,4 +14,5 @@ C:\Users\KOSTA\arduino_project\ArduinoOutput\sketch\mcp2515.ino.cpp.o: \
  C:\Users\KOSTA\Documents\Arduino\libraries\Wire\src/Wire.h \
  C:\Users\KOSTA\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.6\cores\arduino/Stream.h \
  C:\Users\KOSTA\Documents\Arduino\libraries\Adafruit_PWM_Servo_Driver_Library/Adafruit_PWMServoDriver.h \
- C:\Users\KOSTA\Documents\Arduino\libraries\Adafruit_BusIO/Adafruit_I2CDevice.h
+ C:\Users\KOSTA\Documents\Arduino\libraries\Adafruit_BusIO/Adafruit_I2CDevice.h \
+ C:\Users\KOSTA\Documents\Arduino\libraries\SPI\src/SPI.h

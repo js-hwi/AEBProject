@@ -26,6 +26,11 @@
   },
   {
     "Sourcefile": "C:\\Users\\KOSTA\\arduino_project\\ArduinoOutput\\sketch\\mcp2515.ino.cpp",
+    "Include": "SPI.h",
+    "Includepath": "C:\\Users\\KOSTA\\Documents\\Arduino\\libraries\\SPI\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\KOSTA\\arduino_project\\ArduinoOutput\\sketch\\mcp2515.ino.cpp",
     "Include": "",
     "Includepath": null
   },
@@ -43,11 +48,6 @@
     "Sourcefile": "C:\\Users\\KOSTA\\Documents\\Arduino\\libraries\\Adafruit_PWM_Servo_Driver_Library\\Adafruit_PWMServoDriver.cpp",
     "Include": "",
     "Includepath": null
-  },
-  {
-    "Sourcefile": "C:\\Users\\KOSTA\\Documents\\Arduino\\libraries\\Adafruit_BusIO\\Adafruit_BusIO_Register.cpp",
-    "Include": "SPI.h",
-    "Includepath": "C:\\Users\\KOSTA\\Documents\\Arduino\\libraries\\SPI\\src"
   },
   {
     "Sourcefile": "C:\\Users\\KOSTA\\Documents\\Arduino\\libraries\\Adafruit_BusIO\\Adafruit_BusIO_Register.cpp",
