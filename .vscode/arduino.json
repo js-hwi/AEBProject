@@ -1,0 +1,7 @@
+{
+    "board": "arduino:avr:uno",
+    "programmer": "arduino:avrdude",
+    "port": "COM12",
+    "sketch": "mcp2515\\mcp2515.ino",
+    "output": "./ArduinoOutput"
+}

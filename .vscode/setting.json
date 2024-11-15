@@ -1,0 +1,9 @@
+{
+  "arduino.path": "C:/Program Files (x86)/Arduino",
+  "arduino.commandPath": "arduino_debug.exe",
+  "arduino.defaultBaudRate": 9600,
+  "arduino.board": "arduino:avr:uno",
+  "arduino.port": "COM12",
+  "arduino.logLevel": "info",
+  "arduino.enableUSBDetection": true
+}

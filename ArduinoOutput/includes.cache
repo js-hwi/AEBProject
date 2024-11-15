@@ -1,0 +1,72 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\KOSTA\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\KOSTA\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\standard"
+  },
+  {
+    "Sourcefile": "C:\\Users\\KOSTA\\arduino_project\\ArduinoOutput\\sketch\\mcp2515.ino.cpp",
+    "Include": "Wire.h",
+    "Includepath": "C:\\Users\\KOSTA\\Documents\\Arduino\\libraries\\Wire\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\KOSTA\\arduino_project\\ArduinoOutput\\sketch\\mcp2515.ino.cpp",
+    "Include": "Adafruit_PWMServoDriver.h",
+    "Includepath": "C:\\Users\\KOSTA\\Documents\\Arduino\\libraries\\Adafruit_PWM_Servo_Driver_Library"
+  },
+  {
+    "Sourcefile": "C:\\Users\\KOSTA\\arduino_project\\ArduinoOutput\\sketch\\mcp2515.ino.cpp",
+    "Include": "Adafruit_I2CDevice.h",
+    "Includepath": "C:\\Users\\KOSTA\\Documents\\Arduino\\libraries\\Adafruit_BusIO"
+  },
+  {
+    "Sourcefile": "C:\\Users\\KOSTA\\arduino_project\\ArduinoOutput\\sketch\\mcp2515.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\KOSTA\\Documents\\Arduino\\libraries\\Wire\\src\\Wire.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\KOSTA\\Documents\\Arduino\\libraries\\Wire\\src\\utility\\twi.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\KOSTA\\Documents\\Arduino\\libraries\\Adafruit_PWM_Servo_Driver_Library\\Adafruit_PWMServoDriver.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\KOSTA\\Documents\\Arduino\\libraries\\Adafruit_BusIO\\Adafruit_BusIO_Register.cpp",
+    "Include": "SPI.h",
+    "Includepath": "C:\\Users\\KOSTA\\Documents\\Arduino\\libraries\\SPI\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\KOSTA\\Documents\\Arduino\\libraries\\Adafruit_BusIO\\Adafruit_BusIO_Register.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\KOSTA\\Documents\\Arduino\\libraries\\Adafruit_BusIO\\Adafruit_I2CDevice.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\KOSTA\\Documents\\Arduino\\libraries\\Adafruit_BusIO\\Adafruit_SPIDevice.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\KOSTA\\Documents\\Arduino\\libraries\\SPI\\src\\SPI.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
